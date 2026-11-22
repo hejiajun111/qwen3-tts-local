@@ -1,0 +1,15 @@
+# Only the handoff documentation, source code and third-party license are tracked.
+/*
+!/.gitignore
+!/README.md
+
+!/qwen-voice/
+/qwen-voice/*
+!/qwen-voice/deploy.sh
+!/qwen-voice/serve.sh
+!/qwen-voice/synthesize.py
+!/qwen-voice/train.py
+
+!/licenses/
+/licenses/*
+!/licenses/Qwen3-TTS-Apache-2.0.txt
